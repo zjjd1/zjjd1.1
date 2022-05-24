@@ -4,7 +4,10 @@
 
 【金山文档】 Heroku搭建教程 https://kdocs.cn/l/cuGOXoYA2DwO
 
+讨论群组 https://t.me/herokuvless
+
 ## v2ray-heroku
+
 [![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/qq198812/Hreoku.git)https://heroku.com/deploy?template=
 
 ## 注意事项
