@@ -1,11 +1,11 @@
- 申请Freenom域名的正确做法https://1drv.ms/w/s!Akco49yyqyqDtFQj6E9GDVD7hQHw?e=dKxMhL
+ 申请Freenom域名的正确做法  https://1drv.ms/w/s!Akco49yyqyqDtFXjm4iy26Mvv-ES?e=cCC6Wl
 
- CloudFlare Workers 被墙解决方案https://1drv.ms/w/s!Akco49yyqyqDtFK69rvLkNevKxyY?e=HegeOL
+ CloudFlare Workers 被墙解决方案  https://1drv.ms/w/s!Akco49yyqyqDtFK69rvLkNevKxyY?e=HegeOL
 
- Heroku搭建教程https://1drv.ms/w/s!Akco49yyqyqDtFOlWqW7k2FHnBnG?e=Q4sZl2
+ Heroku搭建教程  https://1drv.ms/w/s!Akco49yyqyqDtFOlWqW7k2FHnBnG?e=Q4sZl2
 
 
- 讨论群组 https://t.me/herokuvless
+ 讨论群组  https://t.me/herokuvless
 
 ## v2ray-heroku
 
